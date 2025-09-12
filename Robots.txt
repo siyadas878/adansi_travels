@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /flutter_service_worker.js
+Disallow: /canvaskit/
+Sitemap: https://adansitours.com/sitemap.xml
